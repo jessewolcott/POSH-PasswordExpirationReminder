@@ -1,0 +1,5 @@
+# Exclude a specific file
+scratchpad.ps1
+PasswordExpirationNotification.txt
+**/Credentials/
+**/Logs/
